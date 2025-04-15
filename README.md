@@ -1,5 +1,7 @@
 # llm-crawler
 
+## Costruzione di un database sugli eventi attraverso l’utilizzo di un webcrawler e LLMs - Tesi di Agostino Vigani
+
 La tesi ha come obiettivo l’implementazione di un sistema automatico per la raccolta e
 l’analisi dei dati relativi agli eventi nella città di Milano, attraverso l’utilizzo di tecniche
 avanzate di web crawling e tecnologie innovative come i Large Language Models (LLM).
